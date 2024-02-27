@@ -8,10 +8,13 @@ Det viktigste er jo læringsprossense, og at vi får noe ut av det. Altså en ny
 # Problemstilling
 Hvordan flytte en bakgrunn slik at det ser ut som man kjører med Pygame.
 
-# Liste over mulige prosjekter
-1. Retro Racing Game, dette er det jeg velger.
-2. Heartstone lignende spill
-3. Finne været web-app
+# Ulike faser
+1. Planlegge og undersøk hva som må være med
+2. Undersøke på nett, Aunivers, og på egenhånd til å løse det
+3. Kod det du finner og lag et program
+4. Feilsøk og test
+5. Gjør endringer hvis det trengs / Også repeter steg 4
+
 
 
 
