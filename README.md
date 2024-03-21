@@ -31,6 +31,10 @@ Jeg la til en meny til spillet, og kalte spillet "Silent Ride". Men menyen passe
 # Versjon 5
 Her fikset jeg menyen, resten er likt som Versjon 4.
 
+# Versjon 6(Siste)
+Jeg la til en tekst der kontrollene for styringa av farten til bilen(teknisk sett bakgrunnen).
+Også la jeg til at bilen ikke kan gå utenfor bakgrunnen, det stopper ved kantene.
+
 
 
 
