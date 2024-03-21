@@ -15,6 +15,24 @@ Hvordan flytte en bakgrunn slik at det ser ut som man kjører med Pygame.
 4. Feilsøk og test
 5. Gjør endringer hvis det trengs / Også repeter steg 4
 
+# Versjon 1
+Mitt mål var å lage en rullende bakgrunn. Jeg fikk det til, og importerete bilder som ble min bakgrunn og min bil.
+
+# Versjon 2
+Jeg la til funksjonen til å bevege bilen seg horisontalt, slik at man kan svinge og flytte på seg.
+Jeg la også til musikk, for å skape en stemning, en mørk, snøende kveld stemning.
+
+# Verson 3
+Jeg endret designet og stemingen på spillet ved bruk av Sumopaint. Og jeg la til snøkrystaller som faller ned, som styrker stemningen på spillet.
+
+# Versjon 4
+Jeg la til en meny til spillet, og kalte spillet "Silent Ride". Men menyen passet ikke helt til skjermen, og man så ikke hele menynen. Så dette måtte jeg fikse.
+
+# Versjon 5
+Her fikset jeg menyen, resten er likt som Versjon 4.
+
+
+
 
 
 

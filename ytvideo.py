@@ -8,6 +8,7 @@ clock = pygame.time.Clock()
 
 test_surface = pygame.Surface((100,200))
 test_surface.fill('Red')
+screen.fill('Cyan')
 
 while True:
     for event in pygame.event.get():
@@ -15,7 +16,7 @@ while True:
             pygame.quit()
             exit()
 
-    screen.blit(test_surface,(0,0))
+    screen.blit(test_surface,(0,0)) #block-image-transfer
     pygame.display.update()
     clock.tick(60) # fps ceiling, capper på 60 fps
 
